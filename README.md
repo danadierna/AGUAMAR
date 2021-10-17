@@ -1,6 +1,6 @@
 # Jupyter Notebooks for saline water intrusion using FLOPY for Baja California Sur
 
-Here we present codes for modeling multi-well systems. This series of programs are used to model the basins of Baja California Sur. 
+Here we present codes for  saline water intrusion using FLOPY. This series of programs are used to model the basins of Baja California Sur. 
 In order to run these programs it is necessary to install FLOPY in addition to installing MODFLOW
 
 
